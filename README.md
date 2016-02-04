@@ -1,3 +1,2 @@
 # RIL15WEB
-test
-tets bRanche
+This github repo will be used for the web project.
